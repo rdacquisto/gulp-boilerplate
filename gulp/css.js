@@ -11,7 +11,7 @@ function handleErrors () {
 	this.emit('end');
 };
 
-gulp.task('css', function () {
+gulp.task('css', ['csslint'], function () {
 	gutil.log(gutil.colors.bgBlue('CSS Task'));
 
 	return gulp.src(global.sourcePath + 'styles/**/*.scss')

@@ -12,6 +12,8 @@
     "gulp-minify-css": "^1.2.2",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^2.1.1",
+    "gulp-scss-lint": "^0.3.8",
+    "gulp-scss-lint-stylish": "^1.0.0",
     "gulp-util": "^3.0.7",
     "jshint": "^2.8.0",
     "jshint-stylish": "^2.1.0",
