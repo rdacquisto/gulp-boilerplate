@@ -2,6 +2,7 @@
   "name": "gulp-boilerplate",
   "version": "0.0.1",
   "description": "Gulp Boilerplate",
+  "repository": "https://github.com/bellmounte/gulp-boilerplate",
   "main": "gulpfile.js",
   "dependencies": {
     "del": "^2.2.0",
